@@ -1,0 +1,13 @@
+{
+    "channels": {
+        "T1": "A",
+        "T2": "nix",
+        "T3": "B",
+        "T4": "C"
+    },
+    "settings": {
+        "cycles": 50,
+        "prefix": "Neu Jahr",
+        "interval": 1
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "channels": {
+        "T1": "East",
+        "T2": "West",
+        "T3": "North",
+        "T4": "South"
+    },
+    "settings": {
+        "cycles": 100,
+        "prefix": "My_Test",
+        "interval": 5
+    }
+}
