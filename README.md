@@ -1,4 +1,4 @@
-# K204 Temperature Logger
+# K204 Temperature Logger (Voltcraft)
 Logs the four temperature measurement channels directly in Excel.
 
 Install K204 Python Libs.txt or use released K204_Excel_Logger.exe
